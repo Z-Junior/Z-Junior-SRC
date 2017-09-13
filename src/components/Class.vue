@@ -1,5 +1,5 @@
 <template>
   <div id="app">
-    Hello
+    This is class
   </div>
 </template>
