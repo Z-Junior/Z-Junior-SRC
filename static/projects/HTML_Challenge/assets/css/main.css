@@ -1,0 +1,19 @@
+.container {
+    padding-bottom: 1%;
+}
+
+.pt5 {
+    padding-top: 3vh; /* RIP IE <= 10 */
+}
+
+.divider {
+    border-bottom: 2px solid #000;
+}
+
+li {
+    font-size: 20px;
+}
+
+.footer-text {
+    font-size: 10px;
+}

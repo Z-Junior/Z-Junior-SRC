@@ -33,10 +33,10 @@
                             </p>
                             <ul class="menu-list">
                                 <li>
-                                    <a href="https://z-wdh.github.io/Projects/Basic_HTML/" target="_blank">Basic HTML</a>
+                                    <a href="https://z-wdh.github.io/assets/projects/Basic_HTML/" target="_blank">Basic HTML</a>
                                 </li>
                                 <li>
-                                    <a href="https://z-wdh.github.io/Projects/HTML_Challenge/" target="_blank">HTML Challenge</a>
+                                    <a href="https://z-wdh.github.io/assets/rojects/HTML_Challenge/" target="_blank">HTML Challenge</a>
                                 </li>
                             </ul>
                         </aside>
