@@ -3,7 +3,9 @@
     <div class="container">
       <nav class="navbar" role="navigation" aria-label="Navbar">
         <div class="navbar-brand">
-          <a class="navbar-item" href=".">Home</a>
+          <a class="navbar-item" href=".">
+            <img src="/assets/image/logo.png" />
+          </a>
         </div>
       </nav>
     </div>
@@ -59,4 +61,4 @@
   }
 </script>
 
-<style src="./assets/bulma/bulma.sass" lang="sass"></style>
+<style src="./assets/css/bulma/bulma.sass" lang="sass"></style>
