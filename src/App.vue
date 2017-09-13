@@ -4,8 +4,23 @@
       <nav class="navbar" role="navigation" aria-label="Navbar">
         <div class="navbar-brand">
           <a class="navbar-item" href=".">
-            <img src="/assets/image/logo.png" />
+            <img src="./assets/img/logo.png" />
           </a>
+          <button class="button navbar-burger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <a class="button is-dark" href="https://github.com/RumbleFrog" target="_blank">
+              <span class="icon">
+                <i class="fa fa-github"></i>
+              </span>
+              <span>Github</span>
+            </a>
+          </div>
         </div>
       </nav>
     </div>
@@ -38,10 +53,10 @@
               </p>
               <ul class="menu-list">
                 <li>
-                  <a href="/static/projects/Basic_HTML/index.html" target="_blank">Basic HTML</a>
+                  <a href="./static/projects/Basic_HTML/index.html" target="_blank">Basic HTML</a>
                 </li>
                 <li>
-                  <a href="/static/projects/HTML_Challenge/index.html" target="_blank">HTML Challenge</a>
+                  <a href="./static/projects/HTML_Challenge/index.html" target="_blank">HTML Challenge</a>
                 </li>
               </ul>
             </aside>
