@@ -30,5 +30,8 @@
         </div>
       </article>
     </div>
+    <div class="box">
+      <img src="../assets/img/build.png" />
+    </div>
   </div>
 </template>
