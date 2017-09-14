@@ -42,10 +42,10 @@
               </p>
               <ul class="menu-list">
                 <li>
-                  <router-link :to="{ name: 'Index', params: {} }">Index</router-link>
+                  <router-link :to="{ name: 'Index', params: {} }" exact-active-class="is-active">Index</router-link>
                 </li>
                 <li>
-                  <router-link :to="{ name: 'Class', params: {} }">Class</router-link>
+                  <router-link :to="{ name: 'Class', params: {} }" exact-active-class="is-active">Class</router-link>
                 </li>
               </ul>
               <p class="menu-label">
