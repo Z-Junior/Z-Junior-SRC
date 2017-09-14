@@ -10,8 +10,8 @@
         <div class="media-content">
           <div class="content">
             <p>
-              <strong>Z</strong> <small>@rumblefrog</small> <small>1 second ago</small>
-              <br>Site built on Vue 2.0, Webpack 2.0, Font-awesome 4.7.0, Bulma 0.5.2, and various <a href="https://github.com/Z-WDH/Z-WDH-SRC/blob/master/package.json" target="_blank">other</a> dependencies.
+              <strong><a href="https://twitter.com/RumbleFrog_" target="_blank">Z</a></strong> <small>@rumblefrog_</small> <small>1 second ago</small>
+              <br>Site built on VueJS 2.0, Webpack 2.0, Font-awesome 4.7.0, Bulma 0.5.2, and various <a href="https://github.com/Z-WDH/Z-WDH-SRC/blob/master/package.json" target="_blank">other</a> dependencies.
             </p>
           </div>
           <nav class="level is-mobile">
