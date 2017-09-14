@@ -32,3 +32,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## Resources
 
 - Favicon made by Freepik from flaticon (21C621)
+
+- Bin Folder (/Users/zli9062/Documents/Applications/node-v6.11.3-darwin-x64/bin)
