@@ -63,7 +63,7 @@
             </aside>
           </div>
           <div class="column">
-            <router-view></router-view>
+            <keep-alive><router-view></router-view></keep-alive>
           </div>
         </div>
       </div>
