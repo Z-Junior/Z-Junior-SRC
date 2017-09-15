@@ -4,7 +4,7 @@
       <nav class="navbar" role="navigation" aria-label="Navbar">
         <div class="navbar-brand">
           <a class="navbar-item" href=".">
-            <img src="./assets/img/logo.png" />
+            <img src="~@/assets/img/logo.png" />
           </a>
           <button class="button navbar-burger">
             <span></span>
@@ -77,4 +77,4 @@
   }
 </script>
 
-<style src="./assets/css/bulma/bulma.sass" lang="sass"></style>
+<style src="@/assets/sass/bulma/bulma.sass" lang="sass"></style>
