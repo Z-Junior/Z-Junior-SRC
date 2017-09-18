@@ -33,4 +33,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 - Favicon made by Freepik from flaticon (21C621)
 
-- Bin Folder (/Users/zli9062/Documents/Applications/node-v6.11.3-darwin-x64/bin)
+- Bin Folder (/Users/zli9062/Documents/Applications/node-v8.5.0-darwin-x64/bin)
