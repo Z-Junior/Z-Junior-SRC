@@ -59,6 +59,9 @@
                 <li>
                   <a href="./static/projects/HTML_Challenge/index.html" target="_blank">HTML Challenge</a>
                 </li>
+                <li>
+                  <a href="./static/projects/Basic_Recipes/index.html" target="_blank">Recipes HTML</a>
+                </li>
               </ul>
             </aside>
           </div>
