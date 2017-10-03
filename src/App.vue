@@ -62,6 +62,9 @@
                 <li>
                   <a href="./static/projects/Basic_Recipes/index.html" target="_blank">Recipes HTML</a>
                 </li>
+                <li>
+                  <a href="./static/projects/Basic_Table/index.html" target="_blank">Basic Table</a>
+                </li>
               </ul>
             </aside>
           </div>
