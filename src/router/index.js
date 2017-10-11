@@ -4,6 +4,7 @@ import Router from 'vue-router'
 import Index from '@/components/Index'
 import Class from '@/components/Class'
 import Commits from '@/components/Commits'
+import Chat from '@/components/Chat'
 
 Vue.use(Router)
 
@@ -23,6 +24,11 @@ export default new Router({
       path: '/Commits',
       name: 'Commits',
       component: Commits
+    },
+    {
+      path: '/Chat',
+      name: 'Chat',
+      component: Chat
     }
   ]
 })

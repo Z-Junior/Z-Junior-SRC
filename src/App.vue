@@ -47,6 +47,7 @@
                 <li>
                   <router-link :to="{ name: 'Class', params: {} }" exact-active-class="is-active">Class</router-link>
                   <router-link :to="{ name: 'Commits', params: {} }" exact-active-class="is-active">Commits</router-link>
+                  <router-link :to="{ name: 'Chat', params: {} }">Chat</router-link>
                 </li>
               </ul>
               <p class="menu-label">
