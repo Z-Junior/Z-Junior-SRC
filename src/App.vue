@@ -66,6 +66,9 @@
                 <li>
                   <a href="./static/projects/Basic_Table/index.html" target="_blank">Basic Table</a>
                 </li>
+                <li>
+                  <a href="./static/projects/Basic_Calendar/index.html" target="_blank">Basic Calandar</a>
+                </li>
               </ul>
             </aside>
           </div>

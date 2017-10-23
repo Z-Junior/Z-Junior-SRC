@@ -6,9 +6,3 @@
     </div>
   </div>
 </template>
-
-<script>
-  import raw from 'raw-socket'
-
-  let socket = raw.createSocket({protocol: raw.Protocol.TCP});
-</script>
