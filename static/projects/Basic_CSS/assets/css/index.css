@@ -1,0 +1,16 @@
+.rectangle
+{
+  width: 100%;
+  height: 500px;
+  opacity: 0.5;
+}
+.bgi
+{
+  background-image: url('/static/projects/Basic_CSS/assets/img/own.jpg');
+  height:100%;
+  width:100%;
+}
+.review
+{
+
+}
