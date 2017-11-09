@@ -6,11 +6,16 @@
 }
 .bgi
 {
-  background-image: url('/static/projects/Basic_CSS/assets/img/own.jpg');
+  background-image: url('../img/owl.jpg');
   height:100%;
   width:100%;
+  background-repeat: repeat-y;
 }
 .review
 {
 
+}
+body,html
+{
+  height: 100%;
 }
